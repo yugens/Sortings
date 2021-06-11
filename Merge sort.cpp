@@ -1,3 +1,4 @@
+//Best , average and worst time complexity of Merge sort is nlog(n)
 class Solution {
 public:
     vector<int> sortArray(vector<int>& nums) {
