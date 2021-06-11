@@ -1,3 +1,4 @@
+//Best and average time complexity of insertion sort is o(n) and worst is o(n^2)
 #include<bits/stdc++.h>
 using namespace std;
 
